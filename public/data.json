@@ -1,0 +1,757 @@
+[
+  {
+    "name":"Kershaw, Clayton",
+    "Salary":34571429,
+    "Year":"2016",
+    "Level":"MLB"
+  },    
+  {
+    "name":"Greinke, Zack",
+    "Salary":34000000,
+    "Year":"2016",
+    "Level":"MLB"
+  }, 
+  {
+    "name":"Price, David",
+    "Salary":30000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Hamilton, Josh",
+    "Salary":28410000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Cabrera, Miguel",
+    "Salary":28000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Hernandez, Felix",
+    "Salary":25857143,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Sabathia, CC",
+    "Salary":25000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Pujols, Albert",
+    "Salary":25000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Lester, Jon",
+    "Salary":25000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Howard, Ryan",
+    "Salary":25000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Fielder, Prince",
+    "Salary":24000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Cano, Robinson",
+    "Salary":24000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Hamels, Cole",
+    "Salary":23500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Teixeira, Mark",
+    "Salary":23125000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Mauer, Joe",
+    "Salary":23000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Ramirez, Hanley",
+    "Salary":22750000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Scherzer, Max",
+    "Salary":22142857,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Upton, Justin",
+    "Salary":22125000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Tanaka, Masahiro",
+    "Salary":22000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Reyes, Jose",
+    "Salary":22000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Gonzalez, Adrian",
+    "Salary":21857143,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Kemp, Matt",
+    "Salary":21750000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Crawford, Carl",
+    "Salary":21607143,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Werth, Jayson",
+    "Salary":21571429,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Ellsbury, Jacoby",
+    "Salary":21142857,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Davis, Chris",
+    "Salary":21118782,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Shields, James",
+    "Salary":21000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Rodriguez, Alex",
+    "Salary":21000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Cespedes, Yoenis",
+    "Salary":20833333,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Cain, Matt",
+    "Salary":20833333,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Posey, Buster",
+    "Salary":20777777,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Wilson, C.J.",
+    "Salary":20500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Porcello, Rick",
+    "Salary":20125000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Wright, David",
+    "Salary":20000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Votto, Joey",
+    "Salary":20000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Tulowitzki, Troy",
+    "Salary":20000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Choo, Shin-Soo",
+    "Salary":20000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Braun, Ryan",
+    "Salary":20000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Wainwright, Adam",
+    "Salary":19500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Pence, Hunter",
+    "Salary":18500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Zimmermann, Jordan",
+    "Salary":18000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Martinez, Victor",
+    "Salary":18000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Bailey, Homer",
+    "Salary":18000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Sandoval, Pablo",
+    "Salary":17600000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Heyward, Jason",
+    "Salary":17500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Gonzalez, Carlos",
+    "Salary":17428571,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"McCann, Brian",
+    "Salary":17000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Holliday, Matt",
+    "Salary":17000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Sanchez, Anibal",
+    "Salary":16800000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Trout, Mike",
+    "Salary":16083333,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Upton, Melvin Jr.",
+    "Salary":16050000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Ortiz, David",
+    "Salary":16000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Lackey, John",
+    "Salary":16000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Granderson, Curtis",
+    "Salary":16000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Cueto, Johnny",
+    "Salary":15833333,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Wieters, Matt",
+    "Salary":15800000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Rasmus, Colby",
+    "Salary":15800000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Anderson, Brett",
+    "Salary":15800000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Andrus, Elvis",
+    "Salary":15250000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Swisher, Nick",
+    "Salary":15000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Peavy, Jake",
+    "Salary":15000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Martin, Russell",
+    "Salary":15000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Beltran, Carlos",
+    "Salary":15000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Cruz, Nelson",
+    "Salary":14250000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Molina, Yadier",
+    "Salary":14200000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Zimmerman, Ryan",
+    "Salary":14000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Montero, Miguel",
+    "Salary":14000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Kinsler, Ian",
+    "Salary":14000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Cabrera, Melky",
+    "Salary":14000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Bourn, Michael",
+    "Salary":14000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Bautista, Jose",
+    "Salary":14000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Liriano, Francisco",
+    "Salary":13666667,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Santana, Ervin",
+    "Salary":13500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Gardner, Brett",
+    "Salary":13500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"McCutchen, Andrew",
+    "Salary":13208333,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Harrison, Matt",
+    "Salary":13200000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Pedroia, Dustin",
+    "Salary":13125000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Phillips, Brandon",
+    "Salary":13000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"LaRoche, Adam",
+    "Salary":13000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Jimenez, Ubaldo",
+    "Salary":13000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Jackson, Edwin",
+    "Salary":13000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Headley, Chase",
+    "Salary":13000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Buchholz, Clay",
+    "Salary":13000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Kazmir, Scott",
+    "Salary":12666667,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Bruce, Jay",
+    "Salary":12541667,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Peralta, Jhonny",
+    "Salary":12500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"McCarthy, Brandon",
+    "Salary":12500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Hardy, J.J.",
+    "Salary":12500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Garza, Matt",
+    "Salary":12500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"De La Rosa, Jorge",
+    "Salary":12500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Longoria, Evan",
+    "Salary":12100000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Gonzalez, Gio",
+    "Salary":12100000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Nolasco, Ricky",
+    "Salary":12000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Leake, Mike",
+    "Salary":12000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Hill, Aaron",
+    "Salary":12000000,
+    "Year":"2016"
+  },
+  {
+    "name":"Gordon, Alex",
+    "Salary":12000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Dickey, R.A.",
+    "Salary":12000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Butler, Billy",
+    "Salary":11666667,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Abreu, Jose",
+    "Salary":11666667,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Donaldson, Josh",
+    "Salary":11650000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Garcia, Jaime",
+    "Salary":11500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Estrada, Marco",
+    "Salary":11500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Chapman, Aroldis",
+    "Salary":11325000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Castillo, Rusney",
+    "Salary":11271429,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Pagan, Angel",
+    "Salary":11250000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Kimbrel, Craig",
+    "Salary":11250000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Robertson, David",
+    "Salary":11000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Prado, Martin",
+    "Salary":11000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Papelbon, Jonathan",
+    "Salary":11000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Markakis, Nick",
+    "Salary":11000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Iwakuma, Hisashi",
+    "Salary":11000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Arrieta, Jake",
+    "Salary":10700000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Jansen, Kenley",
+    "Salary":10650000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Walker, Neil",
+    "Salary":10550000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Zobrist, Ben",
+    "Salary":10500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Kendrick, Howie",
+    "Salary":10000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Holland, Derek",
+    "Salary":10000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Happ, J.A.",
+    "Salary":10000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Encarnacion, Edwin",
+    "Salary":10000000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Loney, James",
+    "Salary":9666667,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Melancon, Mark",
+    "Salary":9650000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Ross, Tyson",
+    "Salary":9625000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Volquez, Edinson",
+    "Salary":9500000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Hughes, Phil",
+    "Salary":9200000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Trumbo, Mark",
+    "Salary":9150000,
+    "Year":"2016",
+    "Level":"MLB"
+  },
+  {
+    "name":"Sale, Chris",
+    "Salary":9150000,
+    "Year":"2016",
+    "Level":"MLB"
+  }
+]

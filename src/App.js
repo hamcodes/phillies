@@ -1,25 +1,54 @@
-import logo from './logo.svg';
+import React,{useState,useEffect, useMemo} from 'react';
 import './App.css';
 
 function App() {
+  const [data,setData]=useState([]);
+  const getData=()=>{
+    fetch('data.json'
+    ,{
+      headers : { 
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+       }
+    }
+    )
+      .then(function(response){
+        return response.json();
+      })
+      .then(function(myJson) {
+        setData(myJson)
+      });
+  }
+  useEffect(()=>{
+    getData()
+  },[])
+  
+  const avg = useMemo(() => {
+    if (data.length === 0) {
+      return 0;
+    }
+    
+    return Math.round(data.reduce((sum, item) => sum + item.Salary, 0) / data.length);
+    }, [data])
+    
+
   return (
+
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1 className="top">This free agent player should earn the below amount as an average of the top 125 paid players!</h1>
+      <div className="block">
+         {avg}
+      </div>
+
+     {/* code to show all the salaries for the players */}
+     {/* {data && data.length>0 && data.map((item)=><p>{item.Salary}</p>)} */}
+
     </div>
   );
 }
 
 export default App;
+
+
+
+

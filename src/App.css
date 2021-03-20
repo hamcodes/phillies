@@ -1,38 +1,22 @@
 .App {
   text-align: center;
+
+  height: fit-content;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.block {
+  color: rgb(184, 8, 8);
+  font-size: 50px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+body {
+  background: url(https://wallpapercave.com/wp/z9vrFAk.jpg);
+  background-size: cover;
+  /* background-repeat: no-repeat; */
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.top {
+  color: rgb(255, 255, 255);
 }
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
